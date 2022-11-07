@@ -1,4 +1,4 @@
-```js
+
 let jonSnowHealth = 100;
 
 //converting to string
@@ -111,5 +111,3 @@ function diceMultiplier(){
 // console.log(firstRoll,secondRoll)
 let mupltipliedRoll = diceMultiplier()
 // console.log(mupltipliedRoll)
-
-```
